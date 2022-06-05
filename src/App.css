@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+.AppTitle {
+  color: rgba(233, 10, 147, 0.945);
+  text-align: center;
+  padding-top: 2rem;
+ 
+}
+body{background-color:rgb(8, 175, 226);}
+.movie-list {
+ 	display: flex;
+	flex-direction: column;
+	text-align: center;
+	align-items: center;
+  margin-bottom: 50px;
+}
